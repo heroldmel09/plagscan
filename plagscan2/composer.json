@@ -1,0 +1,24 @@
+{
+    "name": "turla/plagscan",
+    "autoload": {
+        "psr-4": {
+            "Turla\\Plagscan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GLENN TURLA",
+            "email": "turlaglenn@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Copyleaks/PHP-Plagiarism-Checker"
+        }
+    ],
+    "require": {
+        "copyleaks/php-plagiarism-checker": "^4.1",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}

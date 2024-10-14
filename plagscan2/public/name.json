@@ -1,0 +1,254 @@
+{
+    "scannedDocument": {
+        "scanId": "670a8e1573f6f",
+        "totalWords": 195,
+        "totalExcluded": 0,
+        "credits": 1,
+        "expectedCredits": 1,
+        "creationTime": "2024-10-12T14:56:22.985362Z",
+        "metadata": {
+            "creationDate": "2024-09-30T20:05:00.0000000Z",
+            "lastModificationDate": "2024-10-11T01:07:00.0000000Z",
+            "author": "glenn turla",
+            "filename": "Education.docx"
+        },
+        "enabled": {
+            "plagiarismDetection": true,
+            "aiDetection": false,
+            "writingFeedback": false,
+            "pdfReport": false,
+            "cheatDetection": false
+        },
+        "detectedLanguage": "en"
+    },
+    "results": {
+        "score": {
+            "identicalWords": 34,
+            "minorChangedWords": 4,
+            "relatedMeaningWords": 129,
+            "aggregatedScore": 85.6
+        },
+        "internet": [
+            {
+                "url": "https://medium.com/@rohan1072/coding-certification-for-kids-empowering-the-next-generation-of-tech-innovators-b5e95526e869",
+                "id": "11e0c435d6",
+                "title": "Coding Certification for Kids: Empowering the Next Generation of Tech Innovat...",
+                "introduction": "Open in appSign up Sign in Write Sign up Sign in Coding Certification for Kids: Empowering the Next Generation ...",
+                "matchedWords": 59,
+                "identicalWords": 0,
+                "similarWords": 0,
+                "paraphrasedWords": 59,
+                "totalWords": 1045,
+                "metadata": {
+                    "publishDate": "2023-05-31T21:20:07.0000000Z",
+                    "creationDate": "2023-05-31T21:20:07.0000000Z",
+                    "lastModificationDate": "2023-05-31T21:20:08.0000000Z",
+                    "author": "Rohan",
+                    "organization": "Medium",
+                    "filename": "coding-certification-for-kids-empowering-the-next-generation-of-tech-innovators-b5e95526e869"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://www.esportsplayersclub.com/post/what-is-coding-for-kids-a-comprehensive-guide-to-introducing-programming-to-kids",
+                "id": "1362a0ce51",
+                "title": "What is Coding for Kids? A Comprehensive Guide to Introducing Programming to ...",
+                "introduction": "top of page TAMPA'S PREMIERE CODING AND ESPORTS ACADEMY Log In Home Events Member...",
+                "matchedWords": 14,
+                "identicalWords": 0,
+                "similarWords": 14,
+                "paraphrasedWords": 0,
+                "totalWords": 1612,
+                "metadata": {
+                    "publishDate": "2023-06-12T18:07:09.0000000Z",
+                    "lastModificationDate": "2023-06-12T18:07:09.0000000Z",
+                    "author": "clientesportsvenue",
+                    "organization": "Esports Players Club",
+                    "filename": "what-is-coding-for-kids-a-comprehensive-guide-to-introducing-programming-to-kids"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://www.consumersearch.com/technology/drag-drop-coding-perfect-kids-learning-code",
+                "id": "142a92d5a0",
+                "title": "Why Drag and Drop Coding is Perfect for Kids Learning to Code - ConsumerSearc...",
+                "introduction": "Skip to content Site Logo ...",
+                "matchedWords": 14,
+                "identicalWords": 0,
+                "similarWords": 14,
+                "paraphrasedWords": 0,
+                "totalWords": 742,
+                "metadata": {
+                    "publishDate": "2024-09-03T14:20:39.0000000Z",
+                    "lastModificationDate": "2024-09-03T14:20:39.0000000Z",
+                    "author": "Staff Writer",
+                    "organization": "amg",
+                    "filename": "drag-drop-coding-perfect-kids-learning-code"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://skoolofcode.us/blog/coding-for-kids-the-future-of-education-and-career-opportunities/",
+                "id": "147365a246",
+                "title": "Coding for Kids: The Future of Education and Career Opportunities",
+                "introduction": "...",
+                "matchedWords": 84,
+                "identicalWords": 0,
+                "similarWords": 0,
+                "paraphrasedWords": 84,
+                "totalWords": 2830,
+                "metadata": {},
+                "tags": []
+            },
+            {
+                "url": "https://www.kidsacademy.mobi/printable-worksheets/normal/third-grade/math/money-word-problems/",
+                "id": "3360def9d2",
+                "title": "Free Normal Grade 3 Money Word Problems Worksheets",
+                "introduction": "Toggle navigation ...",
+                "matchedWords": 14,
+                "identicalWords": 14,
+                "similarWords": 0,
+                "paraphrasedWords": 0,
+                "totalWords": 2455,
+                "metadata": {
+                    "organization": "KidsAcademy.mobi"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://cybeorg.com/why-coding-for-kids/",
+                "id": "3928ffe983",
+                "title": "Why Coding for Kids - cybeorg",
+                "introduction": "Skip to content ...",
+                "matchedWords": 14,
+                "identicalWords": 0,
+                "similarWords": 14,
+                "paraphrasedWords": 0,
+                "totalWords": 695,
+                "metadata": {},
+                "tags": []
+            },
+            {
+                "url": "https://codingweek.org/5-ways-for-young-adults-to-learn-coding/",
+                "id": "8c8f70cd68",
+                "title": "5 Ways for Young Adults to Learn Coding - National Coding Week",
+                "introduction": "GET INVOLVED Schools Libraries Businesses Hubs Individuals Meet Ups NEWS HUB SPONSORS GET IN TOUCH ...",
+                "matchedWords": 41,
+                "identicalWords": 0,
+                "similarWords": 0,
+                "paraphrasedWords": 41,
+                "totalWords": 1110,
+                "metadata": {},
+                "tags": []
+            },
+            {
+                "url": "https://www.jetlearn.com/blog/key-success-coding-for-kids",
+                "id": "9325dade02",
+                "title": "Why Coding for Kids is the Key to Success in Future (2024)",
+                "introduction": "Back-to-school with JetLearn: Start your coding journey today Why JetLearn?PythonScratchRobloxSign up for a free trial class ...",
+                "matchedWords": 93,
+                "identicalWords": 0,
+                "similarWords": 0,
+                "paraphrasedWords": 93,
+                "totalWords": 5320,
+                "metadata": {
+                    "author": "JetLearn",
+                    "filename": "key-success-coding-for-kids"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://medium.com/@alfialfi215/kids-coding-unlock-the-world-of-programming-47a665a94b92",
+                "id": "9376026cdb",
+                "title": "Kids Coding: Unlock the World of Programming | Medium",
+                "introduction": "Open in appSign up Sign in Write Sign up Sign in Kids Coding: Unlock the World of Programming raydseller...",
+                "matchedWords": 28,
+                "identicalWords": 7,
+                "similarWords": 0,
+                "paraphrasedWords": 21,
+                "totalWords": 756,
+                "metadata": {
+                    "publishDate": "2023-11-24T07:06:56.0000000Z",
+                    "creationDate": "2023-11-24T07:06:56.0000000Z",
+                    "lastModificationDate": "2023-11-24T11:05:32.0000000Z",
+                    "author": "raydseller",
+                    "organization": "Medium",
+                    "filename": "kids-coding-unlock-the-world-of-programming-47a665a94b92"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://www.linkedin.com/pulse/coding-key-skill-navigating-digital-age-harish-christopher-aatdc",
+                "id": "db6ed6408d",
+                "title": "Coding: The Key Skill for Navigating the Digital Age",
+                "introduction": "...",
+                "matchedWords": 8,
+                "identicalWords": 8,
+                "similarWords": 0,
+                "paraphrasedWords": 0,
+                "totalWords": 1338,
+                "metadata": {
+                    "publishDate": "2024-08-02T03:44:32.0000000Z",
+                    "lastModificationDate": "2024-08-02T03:44:33.0000000Z",
+                    "author": "Harish Christopher",
+                    "filename": "coding-key-skill-navigating-digital-age-harish-christopher-aatdc"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://iscodingforyou.com/blog-what-is-coding.html",
+                "id": "dbb8db1012",
+                "title": "What is coding?",
+                "introduction": "You need to enable JavaScript to run this app. HomeAbout testBlog Start testing English Open Menu HomeAboutBlog Start testing Close...",
+                "matchedWords": 10,
+                "identicalWords": 10,
+                "similarWords": 0,
+                "paraphrasedWords": 0,
+                "totalWords": 1195,
+                "metadata": {
+                    "filename": "blog-what-is-coding.html"
+                },
+                "tags": []
+            },
+            {
+                "url": "https://techytots.co.uk/why-children-should-learn-to-code-with-techytots/",
+                "id": "e4a8aa696e",
+                "title": "Why Children Should Learn to Code with TechyTots – Children's Coding Classes ...",
+                "introduction": "Skip to content Book a class ...",
+                "matchedWords": 14,
+                "identicalWords": 0,
+                "similarWords": 14,
+                "paraphrasedWords": 0,
+                "totalWords": 774,
+                "metadata": {},
+                "tags": []
+            },
+            {
+                "url": "https://www.linkedin.com/pulse/significance-coding-education-saurabh-kumar-6po3c",
+                "id": "e9c1cfc998",
+                "title": "The Significance of Coding in Education",
+                "introduction": "...",
+                "matchedWords": 61,
+                "identicalWords": 8,
+                "similarWords": 0,
+                "paraphrasedWords": 53,
+                "totalWords": 1538,
+                "metadata": {
+                    "publishDate": "2024-05-08T15:05:10.0000000Z",
+                    "lastModificationDate": "2024-05-08T15:05:10.0000000Z",
+                    "author": "Saurabh Kumar",
+                    "filename": "significance-coding-education-saurabh-kumar-6po3c"
+                },
+                "tags": []
+            }
+        ],
+        "database": [],
+        "batch": [],
+        "repositories": []
+    },
+    "notifications": {
+        "alerts": []
+    },
+    "status": 0,
+    "developerPayload": ""
+}
