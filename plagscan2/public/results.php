@@ -4,17 +4,11 @@ include('../backend/db.php');
 
 $scan_id = $_GET['scan_id'];
 
-include('../backend/config.php'); // Correct path to config.php
-include('../backend/db.php');
-
 $sql_requestjson=mysqli_query($conn,"SELECT * from result_scanjson where scanID='$scan_id' ;");
 if ($result=mysqli_fetch_all($sql_requestjson)){
-echo "id : ",$result[0][0];
 
-echo "<br> scanID :",$result[0][1];
 
 $json1=json_decode($result[0][3],true);
-echo "<br> ascanId :",$json1['scannedDocument']['scanId'];
 
 foreach ($json1['scannedDocument'] as $key => $value) {
     if(is_array($value)==1){
@@ -23,7 +17,7 @@ foreach ($json1['scannedDocument'] as $key => $value) {
             if($subvalue==True && gettype($subvalue)=="boolean"){
                 echo "<br>&nbsp;&nbsp; $subkey : True "; 
             }elseif($subvalue==FALSE && gettype($subvalue)=="boolean"){
-                echo "<br>&nbsp;&nbsp; $subkey : Flase "; 
+                echo "<br>&nbsp;&nbsp; $subkey : False "; 
             }else{
                 echo "<br>&nbsp;&nbsp; $subkey : $subvalue ";
             }
@@ -134,10 +128,6 @@ foreach ($json1['developerPayload']as $key => $value) {
 }
 }
 
-echo "<br> <br>";
-
-echo "<br> fulljson :",$result[0][3];
-
 
     // if ($status === 'completed') {
     //     echo "<p>View the report: <a href='$report_link' target='_blank'>Report Link</a></p>";
@@ -154,3 +144,4 @@ echo "<br> fulljson :",$result[0][3];
     echo "No results found for this scan.";
 }
 ?>
+
